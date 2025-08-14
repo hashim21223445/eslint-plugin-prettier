@@ -72,7 +72,7 @@
     "@changesets/cli": "^2.27.1",
     "@commitlint/config-conventional": "^18.4.3",
     "@eslint-community/eslint-plugin-eslint-comments": "^4.1.0",
-    "@eslint/js": "^8.56.0",
+    "@eslint/js": "^9.17.0",
     "@graphql-eslint/eslint-plugin": "^3.20.1",
     "@html-eslint/parser": "^0.31.0",
     "@prettier/plugin-pug": "^3.0.0",
