@@ -97,7 +97,7 @@
     "prettier-plugin-pkg": "^0.21.2",
     "prettier-plugin-svelte": "^3.1.2",
     "simple-git-hooks": "^2.9.0",
-    "svelte": "^4.2.8",
+    "svelte": "^5.15.0",
     "vue-eslint-parser": "^9.3.2"
   },
   "pnpm": {
